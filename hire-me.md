@@ -1,6 +1,8 @@
 ###### This section is still a work in progress. Please come back later
 ###### Ps. Sorry about all of the text being squashed together. I'm still trying to figure out how to fix it
 
+[<< Go Back](https://pikakid98.github.io/support-me)
+
 ## Pricing
 
 - `+ £10` per 5 lines
