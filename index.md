@@ -1,18 +1,9 @@
 ###### This is a temp layout until I learn how to code a better website
 
-### Welcome to the main hub site of Pikakid98
+### Here you can support me financially. Whether you just have money to burn or want something in return. Everything here is listed from best to worst. But all options are semi-viable
 
-# Active Projects
-### [Youtuber Website](https://pikakid98.github.io/yt-site)
-### [Github Website](https://git-pikakid98.github.io/)
-### [Freeware Games](https://pikakid98.github.io/games)
-### [My Blog](https://pikakid98.github.io/blog)
-### [The Pikakid98 Graveyard](https://pikakid98.github.io/archive)
-
-
-
-[Discord Server](https://pikakid98.github.io/discord)
+[![direct](/assets/images/direct.png)](https://ko-fi.com/pikakid98)
 \
-[Donations](https://pikakid98.github.io/donate)
+[![va](/assets/images/va.png)](https://pikakid98.github.io/support-me/hire-me)
 \
-[Twitter](https://pikakid98.github.io/twitter)
+[![gj](/assets/images/gj.png)](https://gamejolt.com/@pikakid98)
