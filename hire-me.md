@@ -1,7 +1,6 @@
 ###### This section is still a work in progress. Please come back later
 
-<details>
-<summary>Pricing</summary>
+## Pricing
 
 - `+ £10` per 5 lines
 
@@ -27,11 +26,9 @@
 - 40 line limit - Pay a quarter of the full price (rush orders are exempt and must be stated excplicitly)
 - Tips are not required but appreciated. Tips are not part of the VAT
 
-</details>
 
 
-<details>
-<summary>Rules</summary>
+## Rules
 
 - An upfront payment of half of the full price is required. Arguing with me, attempting to haggle on the price or requesting the lines first will result in being blocked.
 - You may NOT use my voice to slander me by making me say something that will get me into trouble.
@@ -51,14 +48,9 @@
 
 By submitting a request for voice work, you agree that I will partially own the legal rights to my voice. And if I request to no longer be associated with you, you MUST comply and remove my voice lines and name all together.
 
-</details>
-
-
-<details>
-<summary>Voice Samples</summary>
+## Voice Samples
 
 Coming soon
-</details>
 
 \
 `================================================================`
