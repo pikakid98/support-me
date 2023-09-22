@@ -1,25 +1,11 @@
 ###### This section is still a work in progress. Please come back later
+###### Ps. Sorry about all of the text being squashed together. I'm still trying to figure out how to fix it
 
 ## Pricing
 
 - `+ £10` per 5 lines
-
-<details>
-<summary>£2 charge for every 2 words over 5 (eg. 7, 9)  [Click for examples]</summary>
-
-- "Down with the monarchy" `No Extra charge`
-- "Down with the monarchy. Those bastards will PAY!" `+ £2`
-
-</details>
-
-<details>
-<summary>£5 charge for every 5 words over 5 (eg. 10, 15)  [Click for examples]</summary>
-
-- "Down with the monarchy. Those bastards will NOT get away with this" `+ £11`
-
-</details>
-
-
+- £2 charge for every 2 words over 5 (eg. 7, 9)  [[Click for examples]](https://pikakid98.github.io/support-me/hire-me/2poundexample)
+- £5 charge for every 5 words over 5 (eg. 10, 15)  [[Click for examples]](https://pikakid98.github.io/support-me/hire-me/5poundexample)
 - 2 free retakes (£2 for every retake after per session)
 - `£20` for blooper lines
 - `£5 - £15` (depending on what voice. Normal voice has no extra costs)
