@@ -3,7 +3,7 @@
 <details>
 <summary>Pricing</summary>
 
-+ `+ £10` per 5 lines
+- `+ £10` per 5 lines
 
 <details>
 <summary>£2 charge for every 2 words over 5 (eg. 7, 9)  [Click for examples]</summary>
@@ -32,8 +32,6 @@
 
 <details>
 <summary>Rules</summary>
-
-# Rules
 
 - An upfront payment of half of the full price is required. Arguing with me, attempting to haggle on the price or requesting the lines first will result in being blocked.
 - You may NOT use my voice to slander me by making me say something that will get me into trouble.
