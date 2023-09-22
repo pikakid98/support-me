@@ -2,22 +2,21 @@
 
 <details>
 <summary>Pricing</summary>
-  
-# Pricing
+
 + `+ £10` per 5 lines
 
 <details>
 <summary>£2 charge for every 2 words over 5 (eg. 7, 9)  [Click for examples]</summary>
 
-- "Down with the monarchy" `No Extra charge`
-- "Down with the monarchy. Those bastards will PAY!" `+ £2`
++ "Down with the monarchy" `No Extra charge`
++ "Down with the monarchy. Those bastards will PAY!" `+ £2`
 
 </details>
 
 <details>
 <summary>£5 charge for every 5 words over 5 (eg. 10, 15)  [Click for examples]</summary>
 
-- "Down with the monarchy. Those bastards will NOT get away with this" `+ £11`
++ "Down with the monarchy. Those bastards will NOT get away with this" `+ £11`
 
 </details>
 
@@ -56,8 +55,7 @@ By submitting a request for voice work, you agree that I will partially own the 
 <details>
 <summary>Voice Samples</summary>
 
-# Voice Samples
-###### Coming soon
+Coming soon
 </details>
 
 \
