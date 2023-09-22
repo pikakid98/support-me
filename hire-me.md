@@ -40,6 +40,13 @@ By submitting a request for voice work, you agree that I will partially own the 
 
 Coming soon
 
+## Useful websites
+Thanks to annoying convertion rates and PayPal's fees, I have a couple of useful websites listed here that you can use to make sure you don't underpay.. Unfortunately, this means you as the customer need to pay a lot more and a lot of your money will just be thrown into a void.. I'm sorry
+\
+https://www.xe.com/currencyconverter/convert/?Amount=1&From=GBP&To=USD
+\
+https://wise.com/gb/paypal-fee-calculator/
+
 \
 `================================================================`
 
