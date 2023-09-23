@@ -41,7 +41,7 @@ By submitting a request for voice work, you agree that I will partially own the 
 Coming soon
 
 ## Previous Customers And Work
-[Not-So Classic Games](https://www.notsoclassicgames.com/) for [Cat Warfare as The Announcer](https://www.notsoclassicgames.com/games/cat-warfare) `2 Jobs completed`
+[Click here for a list of previous clients](https://pikakid98.github.io/support-me/hire-me/clients)
 
 ## Useful websites
 Thanks to annoying convertion rates and PayPal's fees, I have a couple of useful websites listed here that you can use to make sure you don't underpay.. Unfortunately, this means you as the customer need to pay a lot more and a lot of your money will just be thrown into a void.. I'm sorry
