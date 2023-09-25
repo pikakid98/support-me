@@ -43,10 +43,18 @@ Coming soon
 ## Previous Customers And Work
 [Click here for a list of previous clients](https://pikakid98.github.io/support-me/hire-me/clients)
 
-## Useful websites
-[CLick here to learn more](https://pikakid98.github.io/support-me/hire-me/feecalculator)
+## Helpful Info
+[Click here to learn more](https://pikakid98.github.io/support-me/hire-me/feecalculator)
+[https://wise.com/gb/paypal-fee-calculator](https://wise.com/gb/paypal-fee-calculator)
 \
-If you live outside of the US and use a different currency, Simply change the first value to your own currency
+This one is the best (Make sure your settings match the image below.. Obviously replace "{YOUR COUNTRY HERE)" with the country you live in)
+![example](/assets/images/ex1.png)
+
+\
+Please also make sure to send your money in GBP using the below image as an example
+![example2](/assets/images/ex2.png)
+
+If the above calculator didn't help [Here's a small list of other calculators](https://pikakid98.github.io/support-me/hire-me/feecalculator). Please be aware that these may be more inaccurate
 
 \
 `================================================================`
