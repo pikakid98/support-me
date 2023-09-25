@@ -44,9 +44,8 @@ Coming soon
 [Click here for a list of previous clients](https://pikakid98.github.io/support-me/hire-me/clients)
 
 ## Useful websites
-Thanks to annoying convertion rates and PayPal's fees, I have a useful website listed here that you can use to make sure you don't underpay.. Unfortunately, this means you as the customer need to pay a lot more and a lot of your money will just be thrown into a void.. I'm sorry
+[CLick here to learn more](https://pikakid98.github.io/support-me/hire-me/feecalculator)
 \
-[https://wise.com/gb/compare/paypal-usd-to-gbp](https://wise.com/gb/compare/paypal-usd-to-gbp)
 If you live outside of the US and use a different currency, Simply change the first value to your own currency
 
 \
