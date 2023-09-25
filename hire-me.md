@@ -48,7 +48,7 @@ Thanks to annoying convertion rates and PayPal's fees, I have a couple of useful
 \
 [https://www.xe.com/currencyconverter/convert/?Amount=1&From=GBP&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=GBP&To=USD)
 \
-[https://wise.com/gb/paypal-fee-calculator/](https://wise.com/gb/paypal-fee-calculator/)
+[https://wise.com/gb/compare/paypal-exchange-rate](https://wise.com/gb/compare/paypal-exchange-rate)
 
 \
 `================================================================`
