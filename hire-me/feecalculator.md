@@ -10,3 +10,4 @@
 
 Please be aware that the data may be inaccurate
 
+Please ALSO be aware that these websites may claim that PayPal's fees are 2.9%.. This is for a domestic purchase only.. an international fee is apparently around 4.19%. Please keep this in mind
