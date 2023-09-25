@@ -44,7 +44,6 @@ Coming soon
 [Click here for a list of previous clients](https://pikakid98.github.io/support-me/hire-me/clients)
 
 ## Helpful Info
-[Click here to learn more](https://pikakid98.github.io/support-me/hire-me/feecalculator)
 [https://wise.com/gb/paypal-fee-calculator](https://wise.com/gb/paypal-fee-calculator)
 \
 This one is the best (Make sure your settings match the image below.. Obviously replace "{YOUR COUNTRY HERE)" with the country you live in)
