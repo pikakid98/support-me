@@ -47,6 +47,7 @@ Coming soon
 Thanks to annoying convertion rates and PayPal's fees, I have a useful website listed here that you can use to make sure you don't underpay.. Unfortunately, this means you as the customer need to pay a lot more and a lot of your money will just be thrown into a void.. I'm sorry
 \
 [https://wise.com/gb/compare/paypal-usd-to-gbp](https://wise.com/gb/compare/paypal-usd-to-gbp)
+If you live outside of the US and use a different currency, Simply change the first value to your own currency
 
 \
 `================================================================`
