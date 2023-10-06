@@ -47,10 +47,12 @@ Coming soon
 [https://wise.com/gb/paypal-fee-calculator](https://wise.com/gb/paypal-fee-calculator)
 \
 This one is the best (Make sure your settings match the image below.. Obviously replace "{YOUR COUNTRY HERE)" with the country you live in)
+\
 ![example](/assets/images/ex1.png)
 
 \
 Please also make sure to send your money in GBP using the below image as an example
+\
 ![example2](/assets/images/ex2.png)
 
 If the above calculator didn't help [Here's a small list of other calculators](https://pikakid98.github.io/support-me/hire-me/feecalculator). Please be aware that these may be more inaccurate
